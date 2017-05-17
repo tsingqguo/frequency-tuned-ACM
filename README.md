@@ -6,6 +6,7 @@ In the frequency domain, we propose a generalized Region based ACM that presents
 'Demo.m' contains 3 demos. Please set 'demo' in the code as 1,2 or 3 to run each demo. fbe_acm is the proposed algorithm. The files suffixed by '.mat' contain parameters for each demo.
 
 if you uses the provided codes, please cite the paper:
+
 @inproceedings{Guo2017,
   author={Q. Guo and S. Sun and F. Dong and W. Feng and S. Ma and B. Z. Gao},
   title={Frequency-tuned Active Contour Model for Biomedical Image Segmentation},
